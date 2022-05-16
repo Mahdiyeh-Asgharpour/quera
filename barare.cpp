@@ -1,0 +1,12 @@
+#include<iostream>
+#include<math.h>
+#include<cstring>
+using namespace std;
+int main()
+{
+    int n;
+    cin>>n;
+    if(n%2==0) cout<<"Bala Barare";
+    else cout<<"Payin Barare";
+    return 0;
+}
