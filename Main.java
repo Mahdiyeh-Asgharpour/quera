@@ -1,7 +1,7 @@
 //package quera;
 
 import java.util.Scanner;
-
+//adad chap kon
 public class Main {
 
     public static void main(String[] args) {
