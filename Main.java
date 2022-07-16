@@ -1,7 +1,7 @@
 //package quera;
 
 import java.util.Scanner;
-
+//KHOB BAGHER SARMA KHORDE
 public class Main {
 
     public static void main(String[] args) {
